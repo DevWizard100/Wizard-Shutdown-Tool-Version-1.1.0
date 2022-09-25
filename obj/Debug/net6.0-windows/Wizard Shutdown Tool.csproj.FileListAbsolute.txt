@@ -1,0 +1,40 @@
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Calculator\bin\Debug\net6.0-windows\Wizard Shutdown Tool.exe
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Calculator\bin\Debug\net6.0-windows\Wizard Shutdown Tool.deps.json
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Calculator\bin\Debug\net6.0-windows\Wizard Shutdown Tool.runtimeconfig.json
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Calculator\bin\Debug\net6.0-windows\Wizard Shutdown Tool.dll
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Calculator\bin\Debug\net6.0-windows\Wizard Shutdown Tool.pdb
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Calculator\obj\Debug\net6.0-windows\Wizard Shutdown Tool.csproj.AssemblyReference.cache
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Calculator\obj\Debug\net6.0-windows\Wizard_Calculator.Form1.resources
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Calculator\obj\Debug\net6.0-windows\Wizard_Calculator.Properties.Resources.resources
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Calculator\obj\Debug\net6.0-windows\Wizard Shutdown Tool.csproj.GenerateResource.cache
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Calculator\obj\Debug\net6.0-windows\Wizard Shutdown Tool.GeneratedMSBuildEditorConfig.editorconfig
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Calculator\obj\Debug\net6.0-windows\Wizard Shutdown Tool.AssemblyInfoInputs.cache
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Calculator\obj\Debug\net6.0-windows\Wizard Shutdown Tool.AssemblyInfo.cs
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Calculator\obj\Debug\net6.0-windows\Wizard Shutdown Tool.csproj.CoreCompileInputs.cache
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Calculator\obj\Debug\net6.0-windows\Wizard Shutdown Tool.dll
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Calculator\obj\Debug\net6.0-windows\refint\Wizard Shutdown Tool.dll
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Calculator\obj\Debug\net6.0-windows\Wizard Shutdown Tool.pdb
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Calculator\obj\Debug\net6.0-windows\Wizard Shutdown Tool.genruntimeconfig.cache
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Calculator\obj\Debug\net6.0-windows\ref\Wizard Shutdown Tool.dll
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Calculator\bin\Debug\net6.0-windows\MaterialSkin.dll
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Calculator\obj\Debug\net6.0-windows\Wizard Shutdown Tool.csproj.CopyComplete
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Shutdown Tool\bin\Debug\net6.0-windows\Wizard Shutdown Tool.exe
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Shutdown Tool\bin\Debug\net6.0-windows\Wizard Shutdown Tool.deps.json
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Shutdown Tool\bin\Debug\net6.0-windows\Wizard Shutdown Tool.runtimeconfig.json
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Shutdown Tool\bin\Debug\net6.0-windows\Wizard Shutdown Tool.dll
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Shutdown Tool\bin\Debug\net6.0-windows\Wizard Shutdown Tool.pdb
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Shutdown Tool\bin\Debug\net6.0-windows\MaterialSkin.dll
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Shutdown Tool\obj\Debug\net6.0-windows\Wizard Shutdown Tool.csproj.AssemblyReference.cache
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Shutdown Tool\obj\Debug\net6.0-windows\Wizard_Calculator.Form1.resources
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Shutdown Tool\obj\Debug\net6.0-windows\Wizard_Calculator.Properties.Resources.resources
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Shutdown Tool\obj\Debug\net6.0-windows\Wizard Shutdown Tool.csproj.GenerateResource.cache
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Shutdown Tool\obj\Debug\net6.0-windows\Wizard Shutdown Tool.GeneratedMSBuildEditorConfig.editorconfig
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Shutdown Tool\obj\Debug\net6.0-windows\Wizard Shutdown Tool.AssemblyInfoInputs.cache
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Shutdown Tool\obj\Debug\net6.0-windows\Wizard Shutdown Tool.AssemblyInfo.cs
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Shutdown Tool\obj\Debug\net6.0-windows\Wizard Shutdown Tool.csproj.CoreCompileInputs.cache
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Shutdown Tool\obj\Debug\net6.0-windows\Wizard Shutdown Tool.csproj.CopyComplete
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Shutdown Tool\obj\Debug\net6.0-windows\Wizard Shutdown Tool.dll
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Shutdown Tool\obj\Debug\net6.0-windows\refint\Wizard Shutdown Tool.dll
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Shutdown Tool\obj\Debug\net6.0-windows\Wizard Shutdown Tool.pdb
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Shutdown Tool\obj\Debug\net6.0-windows\Wizard Shutdown Tool.genruntimeconfig.cache
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Shutdown Tool\obj\Debug\net6.0-windows\ref\Wizard Shutdown Tool.dll

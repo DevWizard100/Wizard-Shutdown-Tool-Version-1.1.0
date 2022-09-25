@@ -1,0 +1,6 @@
+C:\Users\Kunde\Desktop\C# Projects\Shutdown Tool\Wizard Shutdown Tool.exe
+C:\Users\Kunde\Desktop\C# Projects\Shutdown Tool\Wizard Shutdown Tool.dll
+C:\Users\Kunde\Desktop\C# Projects\Shutdown Tool\Wizard Shutdown Tool.deps.json
+C:\Users\Kunde\Desktop\C# Projects\Shutdown Tool\Wizard Shutdown Tool.runtimeconfig.json
+C:\Users\Kunde\Desktop\C# Projects\Shutdown Tool\Wizard Shutdown Tool.pdb
+C:\Users\Kunde\Desktop\C# Projects\Shutdown Tool\MaterialSkin.dll

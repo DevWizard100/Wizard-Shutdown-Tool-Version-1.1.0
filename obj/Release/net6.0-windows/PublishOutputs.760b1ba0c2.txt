@@ -1,0 +1,5 @@
+C:\Users\Kunde\Desktop\New folder\Wizard Calculator.exe
+C:\Users\Kunde\Desktop\New folder\Wizard Calculator.dll
+C:\Users\Kunde\Desktop\New folder\Wizard Calculator.deps.json
+C:\Users\Kunde\Desktop\New folder\Wizard Calculator.runtimeconfig.json
+C:\Users\Kunde\Desktop\New folder\Wizard Calculator.pdb

@@ -1,0 +1,18 @@
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Calculator\bin\Release\net6.0-windows\Wizard Calculator.exe
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Calculator\bin\Release\net6.0-windows\Wizard Calculator.deps.json
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Calculator\bin\Release\net6.0-windows\Wizard Calculator.runtimeconfig.json
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Calculator\bin\Release\net6.0-windows\Wizard Calculator.dll
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Calculator\bin\Release\net6.0-windows\Wizard Calculator.pdb
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Calculator\obj\Release\net6.0-windows\Wizard Calculator.csproj.AssemblyReference.cache
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Calculator\obj\Release\net6.0-windows\Wizard_Calculator.Form1.resources
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Calculator\obj\Release\net6.0-windows\Wizard Calculator.csproj.GenerateResource.cache
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Calculator\obj\Release\net6.0-windows\Wizard Calculator.GeneratedMSBuildEditorConfig.editorconfig
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Calculator\obj\Release\net6.0-windows\Wizard Calculator.AssemblyInfoInputs.cache
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Calculator\obj\Release\net6.0-windows\Wizard Calculator.AssemblyInfo.cs
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Calculator\obj\Release\net6.0-windows\Wizard Calculator.csproj.CoreCompileInputs.cache
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Calculator\obj\Release\net6.0-windows\Wizard Calculator.dll
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Calculator\obj\Release\net6.0-windows\refint\Wizard Calculator.dll
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Calculator\obj\Release\net6.0-windows\Wizard Calculator.pdb
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Calculator\obj\Release\net6.0-windows\Wizard Calculator.genruntimeconfig.cache
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Calculator\obj\Release\net6.0-windows\ref\Wizard Calculator.dll
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Calculator\obj\Release\net6.0-windows\Wizard_Calculator.Properties.Resources.resources

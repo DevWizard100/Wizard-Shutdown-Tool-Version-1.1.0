@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eHtwpIo0t8uCa38nCj5tis6u567UyGdtfEi9geAsQ78kETsMXaLmXrVuveoAunX9y6QLEGeXApfrAsL+4OLsWQ==",
+  "success": true,
+  "projectFilePath": "F:\\Visual Studio C#\\Calculator\\Wizard Calculator\\Wizard Shutdown Tool\\Wizard Shutdown Tool.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kunde\\.nuget\\packages\\materialskin.2\\2.3.1\\materialskin.2.2.3.1.nupkg.sha512"
+  ],
+  "logs": []
+}
