@@ -1,0 +1,19 @@
+C:\Users\Kunde\Desktop\C# Aktuelle Software Projekte\Programm Folder\Wizard System Tools (Win32)\Wizard System Tools.exe
+C:\Users\Kunde\Desktop\C# Aktuelle Software Projekte\Programm Folder\Wizard System Tools (Win32)\Wizard System Tools.dll
+C:\Users\Kunde\Desktop\C# Aktuelle Software Projekte\Programm Folder\Wizard System Tools (Win32)\Wizard System Tools.deps.json
+C:\Users\Kunde\Desktop\C# Aktuelle Software Projekte\Programm Folder\Wizard System Tools (Win32)\Wizard System Tools.runtimeconfig.json
+C:\Users\Kunde\Desktop\C# Aktuelle Software Projekte\Programm Folder\Wizard System Tools (Win32)\Wizard System Tools.pdb
+C:\Users\Kunde\Desktop\C# Aktuelle Software Projekte\Programm Folder\Wizard System Tools (Win32)\Microsoft.Diagnostics.EventFlow.Core.dll
+C:\Users\Kunde\Desktop\C# Aktuelle Software Projekte\Programm Folder\Wizard System Tools (Win32)\Microsoft.Diagnostics.EventFlow.Inputs.PerformanceCounter.dll
+C:\Users\Kunde\Desktop\C# Aktuelle Software Projekte\Programm Folder\Wizard System Tools (Win32)\Microsoft.Extensions.Configuration.dll
+C:\Users\Kunde\Desktop\C# Aktuelle Software Projekte\Programm Folder\Wizard System Tools (Win32)\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Kunde\Desktop\C# Aktuelle Software Projekte\Programm Folder\Wizard System Tools (Win32)\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Kunde\Desktop\C# Aktuelle Software Projekte\Programm Folder\Wizard System Tools (Win32)\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Kunde\Desktop\C# Aktuelle Software Projekte\Programm Folder\Wizard System Tools (Win32)\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Kunde\Desktop\C# Aktuelle Software Projekte\Programm Folder\Wizard System Tools (Win32)\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Kunde\Desktop\C# Aktuelle Software Projekte\Programm Folder\Wizard System Tools (Win32)\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Kunde\Desktop\C# Aktuelle Software Projekte\Programm Folder\Wizard System Tools (Win32)\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Kunde\Desktop\C# Aktuelle Software Projekte\Programm Folder\Wizard System Tools (Win32)\Microsoft.Extensions.Primitives.dll
+C:\Users\Kunde\Desktop\C# Aktuelle Software Projekte\Programm Folder\Wizard System Tools (Win32)\Newtonsoft.Json.dll
+C:\Users\Kunde\Desktop\C# Aktuelle Software Projekte\Programm Folder\Wizard System Tools (Win32)\Pegasus.Common.dll
+C:\Users\Kunde\Desktop\C# Aktuelle Software Projekte\Programm Folder\Wizard System Tools (Win32)\Validation.dll

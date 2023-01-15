@@ -38,3 +38,21 @@ F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Shutdown Tool\obj\Debug\
 F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Shutdown Tool\obj\Debug\net6.0-windows\Wizard Shutdown Tool.pdb
 F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Shutdown Tool\obj\Debug\net6.0-windows\Wizard Shutdown Tool.genruntimeconfig.cache
 F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Shutdown Tool\obj\Debug\net6.0-windows\ref\Wizard Shutdown Tool.dll
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Shutdown Tool\bin\Debug\net6.0-windows\Apitron.PDF.Controls.dll
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Shutdown Tool\bin\Debug\net6.0-windows\Apitron.PDF.Rasterizer.dll
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Shutdown Tool\obj\Debug\net6.0-windows\Wizard_Calculator.Login.resources
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Shutdown Tool\obj\Debug\net6.0-windows\Wizard_Calculator.Calculator.resources
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Shutdown Tool\bin\Debug\net6.0-windows\Microsoft.Diagnostics.EventFlow.Core.dll
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Shutdown Tool\bin\Debug\net6.0-windows\Microsoft.Diagnostics.EventFlow.Inputs.PerformanceCounter.dll
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Shutdown Tool\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Shutdown Tool\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Shutdown Tool\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Shutdown Tool\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Shutdown Tool\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Shutdown Tool\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Shutdown Tool\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Shutdown Tool\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Shutdown Tool\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Shutdown Tool\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Shutdown Tool\bin\Debug\net6.0-windows\Pegasus.Common.dll
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Shutdown Tool\bin\Debug\net6.0-windows\Validation.dll

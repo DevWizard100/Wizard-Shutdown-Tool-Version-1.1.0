@@ -38,3 +38,5 @@ F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Shutdown Tool\obj\Releas
 F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Shutdown Tool\obj\Release\net6.0-windows\Wizard Shutdown Tool.pdb
 F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Shutdown Tool\obj\Release\net6.0-windows\Wizard Shutdown Tool.genruntimeconfig.cache
 F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Shutdown Tool\obj\Release\net6.0-windows\ref\Wizard Shutdown Tool.dll
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Shutdown Tool\bin\Release\net6.0-windows\Apitron.PDF.Controls.dll
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Shutdown Tool\bin\Release\net6.0-windows\Apitron.PDF.Rasterizer.dll

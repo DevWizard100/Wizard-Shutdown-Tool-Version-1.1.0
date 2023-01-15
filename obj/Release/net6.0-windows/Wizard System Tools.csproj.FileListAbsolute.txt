@@ -1,0 +1,72 @@
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Shutdown Tool\bin\Release\net6.0-windows\Wizard System Tools.exe
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Shutdown Tool\bin\Release\net6.0-windows\Wizard System Tools.deps.json
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Shutdown Tool\bin\Release\net6.0-windows\Wizard System Tools.runtimeconfig.json
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Shutdown Tool\bin\Release\net6.0-windows\Wizard System Tools.dll
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Shutdown Tool\bin\Release\net6.0-windows\Wizard System Tools.pdb
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Shutdown Tool\bin\Release\net6.0-windows\Microsoft.Diagnostics.EventFlow.Core.dll
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Shutdown Tool\bin\Release\net6.0-windows\Microsoft.Diagnostics.EventFlow.Inputs.PerformanceCounter.dll
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Shutdown Tool\bin\Release\net6.0-windows\Microsoft.Extensions.Configuration.dll
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Shutdown Tool\bin\Release\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Shutdown Tool\bin\Release\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Shutdown Tool\bin\Release\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Shutdown Tool\bin\Release\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Shutdown Tool\bin\Release\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Shutdown Tool\bin\Release\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Shutdown Tool\bin\Release\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Shutdown Tool\bin\Release\net6.0-windows\Microsoft.Extensions.Primitives.dll
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Shutdown Tool\bin\Release\net6.0-windows\Newtonsoft.Json.dll
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Shutdown Tool\bin\Release\net6.0-windows\Pegasus.Common.dll
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Shutdown Tool\bin\Release\net6.0-windows\Validation.dll
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Shutdown Tool\obj\Release\net6.0-windows\Wizard System Tools.csproj.AssemblyReference.cache
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Shutdown Tool\obj\Release\net6.0-windows\Wizard_Calculator.Calculator.resources
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Shutdown Tool\obj\Release\net6.0-windows\Wizard_Calculator.einheitenumrechner.resources
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Shutdown Tool\obj\Release\net6.0-windows\Wizard_Calculator.Form1.resources
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Shutdown Tool\obj\Release\net6.0-windows\Wizard_Calculator.Login.resources
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Shutdown Tool\obj\Release\net6.0-windows\Wizard_Calculator.Properties.Resources.resources
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Shutdown Tool\obj\Release\net6.0-windows\Wizard System Tools.csproj.GenerateResource.cache
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Shutdown Tool\obj\Release\net6.0-windows\Wizard System Tools.GeneratedMSBuildEditorConfig.editorconfig
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Shutdown Tool\obj\Release\net6.0-windows\Wizard System Tools.AssemblyInfoInputs.cache
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Shutdown Tool\obj\Release\net6.0-windows\Wizard System Tools.AssemblyInfo.cs
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Shutdown Tool\obj\Release\net6.0-windows\Wizard System Tools.csproj.CoreCompileInputs.cache
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Shutdown Tool\obj\Release\net6.0-windows\Wizard System Tools.csproj.CopyComplete
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Shutdown Tool\obj\Release\net6.0-windows\Wizard System Tools.dll
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Shutdown Tool\obj\Release\net6.0-windows\refint\Wizard System Tools.dll
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Shutdown Tool\obj\Release\net6.0-windows\Wizard System Tools.pdb
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Shutdown Tool\obj\Release\net6.0-windows\Wizard System Tools.genruntimeconfig.cache
+F:\Visual Studio C#\Calculator\Wizard Calculator\Wizard Shutdown Tool\obj\Release\net6.0-windows\ref\Wizard System Tools.dll
+C:\Users\Kunde\Desktop\C# Aktuelle Software Projekte\Source Code\Wizard System Tools\bin\Release\net6.0-windows\Wizard System Tools.exe
+C:\Users\Kunde\Desktop\C# Aktuelle Software Projekte\Source Code\Wizard System Tools\bin\Release\net6.0-windows\Wizard System Tools.deps.json
+C:\Users\Kunde\Desktop\C# Aktuelle Software Projekte\Source Code\Wizard System Tools\bin\Release\net6.0-windows\Wizard System Tools.runtimeconfig.json
+C:\Users\Kunde\Desktop\C# Aktuelle Software Projekte\Source Code\Wizard System Tools\bin\Release\net6.0-windows\Wizard System Tools.dll
+C:\Users\Kunde\Desktop\C# Aktuelle Software Projekte\Source Code\Wizard System Tools\bin\Release\net6.0-windows\Wizard System Tools.pdb
+C:\Users\Kunde\Desktop\C# Aktuelle Software Projekte\Source Code\Wizard System Tools\bin\Release\net6.0-windows\Microsoft.Diagnostics.EventFlow.Core.dll
+C:\Users\Kunde\Desktop\C# Aktuelle Software Projekte\Source Code\Wizard System Tools\bin\Release\net6.0-windows\Microsoft.Diagnostics.EventFlow.Inputs.PerformanceCounter.dll
+C:\Users\Kunde\Desktop\C# Aktuelle Software Projekte\Source Code\Wizard System Tools\bin\Release\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Kunde\Desktop\C# Aktuelle Software Projekte\Source Code\Wizard System Tools\bin\Release\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Kunde\Desktop\C# Aktuelle Software Projekte\Source Code\Wizard System Tools\bin\Release\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Kunde\Desktop\C# Aktuelle Software Projekte\Source Code\Wizard System Tools\bin\Release\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Kunde\Desktop\C# Aktuelle Software Projekte\Source Code\Wizard System Tools\bin\Release\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Kunde\Desktop\C# Aktuelle Software Projekte\Source Code\Wizard System Tools\bin\Release\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Kunde\Desktop\C# Aktuelle Software Projekte\Source Code\Wizard System Tools\bin\Release\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Kunde\Desktop\C# Aktuelle Software Projekte\Source Code\Wizard System Tools\bin\Release\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Kunde\Desktop\C# Aktuelle Software Projekte\Source Code\Wizard System Tools\bin\Release\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Kunde\Desktop\C# Aktuelle Software Projekte\Source Code\Wizard System Tools\bin\Release\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Kunde\Desktop\C# Aktuelle Software Projekte\Source Code\Wizard System Tools\bin\Release\net6.0-windows\Pegasus.Common.dll
+C:\Users\Kunde\Desktop\C# Aktuelle Software Projekte\Source Code\Wizard System Tools\bin\Release\net6.0-windows\Validation.dll
+C:\Users\Kunde\Desktop\C# Aktuelle Software Projekte\Source Code\Wizard System Tools\obj\Release\net6.0-windows\Wizard System Tools.csproj.AssemblyReference.cache
+C:\Users\Kunde\Desktop\C# Aktuelle Software Projekte\Source Code\Wizard System Tools\obj\Release\net6.0-windows\Wizard_Calculator.Calculator.resources
+C:\Users\Kunde\Desktop\C# Aktuelle Software Projekte\Source Code\Wizard System Tools\obj\Release\net6.0-windows\Wizard_Calculator.einheitenumrechner.resources
+C:\Users\Kunde\Desktop\C# Aktuelle Software Projekte\Source Code\Wizard System Tools\obj\Release\net6.0-windows\Wizard_Calculator.Form1.resources
+C:\Users\Kunde\Desktop\C# Aktuelle Software Projekte\Source Code\Wizard System Tools\obj\Release\net6.0-windows\Wizard_Calculator.Login.resources
+C:\Users\Kunde\Desktop\C# Aktuelle Software Projekte\Source Code\Wizard System Tools\obj\Release\net6.0-windows\Wizard_Calculator.Properties.Resources.resources
+C:\Users\Kunde\Desktop\C# Aktuelle Software Projekte\Source Code\Wizard System Tools\obj\Release\net6.0-windows\Wizard System Tools.csproj.GenerateResource.cache
+C:\Users\Kunde\Desktop\C# Aktuelle Software Projekte\Source Code\Wizard System Tools\obj\Release\net6.0-windows\Wizard System Tools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kunde\Desktop\C# Aktuelle Software Projekte\Source Code\Wizard System Tools\obj\Release\net6.0-windows\Wizard System Tools.AssemblyInfoInputs.cache
+C:\Users\Kunde\Desktop\C# Aktuelle Software Projekte\Source Code\Wizard System Tools\obj\Release\net6.0-windows\Wizard System Tools.AssemblyInfo.cs
+C:\Users\Kunde\Desktop\C# Aktuelle Software Projekte\Source Code\Wizard System Tools\obj\Release\net6.0-windows\Wizard System Tools.csproj.CoreCompileInputs.cache
+C:\Users\Kunde\Desktop\C# Aktuelle Software Projekte\Source Code\Wizard System Tools\obj\Release\net6.0-windows\Wizard System Tools.csproj.CopyComplete
+C:\Users\Kunde\Desktop\C# Aktuelle Software Projekte\Source Code\Wizard System Tools\obj\Release\net6.0-windows\Wizard System Tools.dll
+C:\Users\Kunde\Desktop\C# Aktuelle Software Projekte\Source Code\Wizard System Tools\obj\Release\net6.0-windows\refint\Wizard System Tools.dll
+C:\Users\Kunde\Desktop\C# Aktuelle Software Projekte\Source Code\Wizard System Tools\obj\Release\net6.0-windows\Wizard System Tools.pdb
+C:\Users\Kunde\Desktop\C# Aktuelle Software Projekte\Source Code\Wizard System Tools\obj\Release\net6.0-windows\Wizard System Tools.genruntimeconfig.cache
+C:\Users\Kunde\Desktop\C# Aktuelle Software Projekte\Source Code\Wizard System Tools\obj\Release\net6.0-windows\ref\Wizard System Tools.dll
