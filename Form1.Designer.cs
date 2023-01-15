@@ -673,8 +673,9 @@
             // 
             // label26
             // 
+            this.label26.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.label26.AutoSize = true;
-            this.label26.Location = new System.Drawing.Point(6, 183);
+            this.label26.Location = new System.Drawing.Point(6, 214);
             this.label26.Name = "label26";
             this.label26.Size = new System.Drawing.Size(64, 15);
             this.label26.TabIndex = 13;
@@ -692,8 +693,9 @@
             // 
             // button13
             // 
+            this.button13.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.button13.FlatStyle = System.Windows.Forms.FlatStyle.System;
-            this.button13.Location = new System.Drawing.Point(6, 201);
+            this.button13.Location = new System.Drawing.Point(6, 232);
             this.button13.Name = "button13";
             this.button13.Size = new System.Drawing.Size(75, 23);
             this.button13.TabIndex = 5;
@@ -1034,7 +1036,6 @@
             this.StartTimer2.TabIndex = 6;
             this.StartTimer2.Text = "Timer";
             this.StartTimer2.UseVisualStyleBackColor = true;
-           
             // 
             // groupBox13
             // 

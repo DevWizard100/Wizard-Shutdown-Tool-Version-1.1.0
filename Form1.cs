@@ -425,7 +425,7 @@ namespace Wizard_Calculator
 
         //Disclaimer: Attention from here on there is very unclear and poorly written code as it was my first project please do not take an example from me thanks :)
 
-        //Shotdown Time Presets
+        //Short Shutdown Time Presets
 
         private void button1_Click(object sender, EventArgs e)
         {
