@@ -1,4 +1,6 @@
 # Wizard-Shutdown-Tool
+
+a practical performant tool that combines many windows system programs such as: task manager, timer, performance monitor, shutdown timer, system information and more.
  
 Taskmanager:
 
@@ -12,4 +14,6 @@ Shutdown Timer:
 
 ![Screen2](https://user-images.githubusercontent.com/109457379/212560393-d5ef0df1-a24d-48a7-a9b2-00e5e29b3a0c.png)
 
-and more!
+And more!
+
+Thanks for reading!
