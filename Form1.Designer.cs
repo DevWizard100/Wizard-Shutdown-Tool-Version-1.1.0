@@ -42,9 +42,9 @@
             this.tabControl1 = new System.Windows.Forms.TabControl();
             this.tabPage1 = new System.Windows.Forms.TabPage();
             this.label9 = new System.Windows.Forms.Label();
+            this.label15 = new System.Windows.Forms.Label();
             this.btnStart = new System.Windows.Forms.Button();
             this.btnStop = new System.Windows.Forms.Button();
-            this.label15 = new System.Windows.Forms.Label();
             this.button7 = new System.Windows.Forms.Button();
             this.groupBox3 = new System.Windows.Forms.GroupBox();
             this.rbSavePower = new System.Windows.Forms.RadioButton();
@@ -73,8 +73,9 @@
             this.label3 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.tabPage4 = new System.Windows.Forms.TabPage();
-            this.label26 = new System.Windows.Forms.Label();
             this.label20 = new System.Windows.Forms.Label();
+            this.startmsrcbtn = new System.Windows.Forms.Button();
+            this.label26 = new System.Windows.Forms.Label();
             this.button13 = new System.Windows.Forms.Button();
             this.button9 = new System.Windows.Forms.Button();
             this.button8 = new System.Windows.Forms.Button();
@@ -87,7 +88,6 @@
             this.radioButtonslow = new System.Windows.Forms.RadioButton();
             this.radioButtonnormal = new System.Windows.Forms.RadioButton();
             this.radioButtonfast = new System.Windows.Forms.RadioButton();
-            this.label21 = new System.Windows.Forms.Label();
             this.label19 = new System.Windows.Forms.Label();
             this.label18 = new System.Windows.Forms.Label();
             this.checkcpurambtn = new System.Windows.Forms.CheckBox();
@@ -124,6 +124,10 @@
             this.label24 = new System.Windows.Forms.Label();
             this.groupBox9 = new System.Windows.Forms.GroupBox();
             this.TimerLabel = new System.Windows.Forms.Label();
+            this.tabPage6 = new System.Windows.Forms.TabPage();
+            this.groupBox14 = new System.Windows.Forms.GroupBox();
+            this.installedappview = new System.Windows.Forms.ListView();
+            this.OpenProgrammPathbtn = new System.Windows.Forms.Button();
             this.timer = new System.Windows.Forms.Timer(this.components);
             this.openFileDialog1 = new System.Windows.Forms.OpenFileDialog();
             this.timerPerformance = new System.Windows.Forms.Timer(this.components);
@@ -151,6 +155,8 @@
             this.groupBox11.SuspendLayout();
             this.groupBox10.SuspendLayout();
             this.groupBox9.SuspendLayout();
+            this.tabPage6.SuspendLayout();
+            this.groupBox14.SuspendLayout();
             this.SuspendLayout();
             // 
             // menuStrip1
@@ -161,7 +167,7 @@
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
             this.menuStrip1.RenderMode = System.Windows.Forms.ToolStripRenderMode.Professional;
-            this.menuStrip1.Size = new System.Drawing.Size(383, 24);
+            this.menuStrip1.Size = new System.Drawing.Size(451, 24);
             this.menuStrip1.TabIndex = 0;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -190,7 +196,7 @@
             this.button1.Cursor = System.Windows.Forms.Cursors.AppStarting;
             this.button1.FlatStyle = System.Windows.Forms.FlatStyle.System;
             this.button1.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.button1.Location = new System.Drawing.Point(72, 201);
+            this.button1.Location = new System.Drawing.Point(73, 225);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(61, 31);
             this.button1.TabIndex = 1;
@@ -204,7 +210,7 @@
             this.button2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(35)))), ((int)(((byte)(35)))), ((int)(((byte)(45)))));
             this.button2.Cursor = System.Windows.Forms.Cursors.AppStarting;
             this.button2.FlatStyle = System.Windows.Forms.FlatStyle.System;
-            this.button2.Location = new System.Drawing.Point(294, 320);
+            this.button2.Location = new System.Drawing.Point(362, 327);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(77, 24);
             this.button2.TabIndex = 2;
@@ -219,7 +225,7 @@
             this.button3.Cursor = System.Windows.Forms.Cursors.AppStarting;
             this.button3.FlatStyle = System.Windows.Forms.FlatStyle.System;
             this.button3.ForeColor = System.Drawing.Color.Transparent;
-            this.button3.Location = new System.Drawing.Point(213, 320);
+            this.button3.Location = new System.Drawing.Point(281, 327);
             this.button3.Margin = new System.Windows.Forms.Padding(1);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(77, 24);
@@ -236,7 +242,7 @@
             this.button4.Cursor = System.Windows.Forms.Cursors.AppStarting;
             this.button4.FlatStyle = System.Windows.Forms.FlatStyle.System;
             this.button4.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.button4.Location = new System.Drawing.Point(139, 201);
+            this.button4.Location = new System.Drawing.Point(140, 225);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(61, 31);
             this.button4.TabIndex = 4;
@@ -252,7 +258,7 @@
             this.button5.Cursor = System.Windows.Forms.Cursors.AppStarting;
             this.button5.FlatStyle = System.Windows.Forms.FlatStyle.System;
             this.button5.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.button5.Location = new System.Drawing.Point(273, 201);
+            this.button5.Location = new System.Drawing.Point(273, 225);
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(61, 31);
             this.button5.TabIndex = 5;
@@ -268,7 +274,7 @@
             this.button6.Cursor = System.Windows.Forms.Cursors.AppStarting;
             this.button6.FlatStyle = System.Windows.Forms.FlatStyle.System;
             this.button6.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.button6.Location = new System.Drawing.Point(206, 201);
+            this.button6.Location = new System.Drawing.Point(207, 225);
             this.button6.Name = "button6";
             this.button6.Size = new System.Drawing.Size(61, 31);
             this.button6.TabIndex = 6;
@@ -298,20 +304,22 @@
             this.tabControl1.Controls.Add(this.tabPage3);
             this.tabControl1.Controls.Add(this.tabPage5);
             this.tabControl1.Controls.Add(this.StartTimer2);
+            this.tabControl1.Controls.Add(this.tabPage6);
             this.tabControl1.Location = new System.Drawing.Point(12, 27);
             this.tabControl1.Name = "tabControl1";
             this.tabControl1.SelectedIndex = 0;
-            this.tabControl1.Size = new System.Drawing.Size(359, 289);
+            this.tabControl1.Size = new System.Drawing.Size(427, 296);
             this.tabControl1.SizeMode = System.Windows.Forms.TabSizeMode.FillToRight;
             this.tabControl1.TabIndex = 8;
+            this.tabControl1.MouseClick += new System.Windows.Forms.MouseEventHandler(this.tabControl1_MouseClick);
             // 
             // tabPage1
             // 
             this.tabPage1.BackColor = System.Drawing.Color.White;
             this.tabPage1.Controls.Add(this.label9);
+            this.tabPage1.Controls.Add(this.label15);
             this.tabPage1.Controls.Add(this.btnStart);
             this.tabPage1.Controls.Add(this.btnStop);
-            this.tabPage1.Controls.Add(this.label15);
             this.tabPage1.Controls.Add(this.button7);
             this.tabPage1.Controls.Add(this.groupBox3);
             this.tabPage1.Controls.Add(this.button1);
@@ -325,7 +333,7 @@
             this.tabPage1.Location = new System.Drawing.Point(4, 24);
             this.tabPage1.Name = "tabPage1";
             this.tabPage1.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage1.Size = new System.Drawing.Size(351, 261);
+            this.tabPage1.Size = new System.Drawing.Size(419, 268);
             this.tabPage1.TabIndex = 0;
             this.tabPage1.Text = "Sleep";
             // 
@@ -333,15 +341,26 @@
             // 
             this.label9.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.label9.AutoSize = true;
-            this.label9.Location = new System.Drawing.Point(6, 237);
+            this.label9.Location = new System.Drawing.Point(6, 244);
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(0, 15);
             this.label9.TabIndex = 11;
             // 
+            // label15
+            // 
+            this.label15.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
+            this.label15.AutoSize = true;
+            this.label15.Font = new System.Drawing.Font("Segoe UI Semibold", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.label15.Location = new System.Drawing.Point(6, 207);
+            this.label15.Name = "label15";
+            this.label15.Size = new System.Drawing.Size(74, 15);
+            this.label15.TabIndex = 10;
+            this.label15.Text = "Time Presets";
+            // 
             // btnStart
             // 
             this.btnStart.FlatStyle = System.Windows.Forms.FlatStyle.System;
-            this.btnStart.Location = new System.Drawing.Point(6, 133);
+            this.btnStart.Location = new System.Drawing.Point(6, 131);
             this.btnStart.Name = "btnStart";
             this.btnStart.Size = new System.Drawing.Size(50, 35);
             this.btnStart.TabIndex = 0;
@@ -353,24 +372,13 @@
             // 
             this.btnStop.BackColor = System.Drawing.Color.White;
             this.btnStop.FlatStyle = System.Windows.Forms.FlatStyle.System;
-            this.btnStop.Location = new System.Drawing.Point(60, 133);
+            this.btnStop.Location = new System.Drawing.Point(60, 131);
             this.btnStop.Name = "btnStop";
             this.btnStop.Size = new System.Drawing.Size(50, 35);
             this.btnStop.TabIndex = 1;
             this.btnStop.Text = "Stop";
             this.btnStop.UseVisualStyleBackColor = false;
             this.btnStop.Click += new System.EventHandler(this.btnStop_Click);
-            // 
-            // label15
-            // 
-            this.label15.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
-            this.label15.AutoSize = true;
-            this.label15.Font = new System.Drawing.Font("Segoe UI Semibold", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label15.Location = new System.Drawing.Point(6, 183);
-            this.label15.Name = "label15";
-            this.label15.Size = new System.Drawing.Size(74, 15);
-            this.label15.TabIndex = 10;
-            this.label15.Text = "Time Presets";
             // 
             // button7
             // 
@@ -380,7 +388,7 @@
             this.button7.Cursor = System.Windows.Forms.Cursors.AppStarting;
             this.button7.FlatStyle = System.Windows.Forms.FlatStyle.System;
             this.button7.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.button7.Location = new System.Drawing.Point(6, 201);
+            this.button7.Location = new System.Drawing.Point(6, 225);
             this.button7.Name = "button7";
             this.button7.Size = new System.Drawing.Size(61, 31);
             this.button7.TabIndex = 8;
@@ -436,7 +444,7 @@
             // 
             this.label6.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(286, 237);
+            this.label6.Location = new System.Drawing.Point(354, 250);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(59, 15);
             this.label6.TabIndex = 9;
@@ -542,14 +550,15 @@
             this.tabPage2.Location = new System.Drawing.Point(4, 24);
             this.tabPage2.Name = "tabPage2";
             this.tabPage2.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage2.Size = new System.Drawing.Size(351, 261);
+            this.tabPage2.Size = new System.Drawing.Size(419, 268);
             this.tabPage2.TabIndex = 1;
             this.tabPage2.Text = "Settings";
             // 
             // button11
             // 
+            this.button11.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.button11.FlatStyle = System.Windows.Forms.FlatStyle.System;
-            this.button11.Location = new System.Drawing.Point(6, 187);
+            this.button11.Location = new System.Drawing.Point(6, 234);
             this.button11.Name = "button11";
             this.button11.Size = new System.Drawing.Size(60, 25);
             this.button11.TabIndex = 4;
@@ -559,9 +568,10 @@
             // 
             // label17
             // 
+            this.label17.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.label17.AutoSize = true;
             this.label17.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label17.Location = new System.Drawing.Point(6, 169);
+            this.label17.Location = new System.Drawing.Point(6, 216);
             this.label17.Name = "label17";
             this.label17.Size = new System.Drawing.Size(157, 15);
             this.label17.TabIndex = 7;
@@ -610,7 +620,7 @@
             // 
             this.label5.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(6, 243);
+            this.label5.Location = new System.Drawing.Point(6, 160);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(198, 15);
             this.label5.TabIndex = 4;
@@ -657,8 +667,9 @@
             // tabPage4
             // 
             this.tabPage4.BackColor = System.Drawing.Color.White;
-            this.tabPage4.Controls.Add(this.label26);
             this.tabPage4.Controls.Add(this.label20);
+            this.tabPage4.Controls.Add(this.startmsrcbtn);
+            this.tabPage4.Controls.Add(this.label26);
             this.tabPage4.Controls.Add(this.button13);
             this.tabPage4.Controls.Add(this.button9);
             this.tabPage4.Controls.Add(this.button8);
@@ -667,37 +678,51 @@
             this.tabPage4.Location = new System.Drawing.Point(4, 24);
             this.tabPage4.Name = "tabPage4";
             this.tabPage4.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage4.Size = new System.Drawing.Size(351, 261);
+            this.tabPage4.Size = new System.Drawing.Size(419, 268);
             this.tabPage4.TabIndex = 3;
             this.tabPage4.Text = "Tools";
+            // 
+            // label20
+            // 
+            this.label20.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
+            this.label20.AutoSize = true;
+            this.label20.Location = new System.Drawing.Point(6, 215);
+            this.label20.Name = "label20";
+            this.label20.Size = new System.Drawing.Size(283, 15);
+            this.label20.TabIndex = 15;
+            this.label20.Text = "Start the Windows Malicious Software Removal Tool:";
+            // 
+            // startmsrcbtn
+            // 
+            this.startmsrcbtn.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
+            this.startmsrcbtn.Image = global::Wizard_Calculator.Properties.Resources.open;
+            this.startmsrcbtn.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.startmsrcbtn.Location = new System.Drawing.Point(6, 233);
+            this.startmsrcbtn.Name = "startmsrcbtn";
+            this.startmsrcbtn.Size = new System.Drawing.Size(152, 29);
+            this.startmsrcbtn.TabIndex = 14;
+            this.startmsrcbtn.Text = "Start with admin rights";
+            this.startmsrcbtn.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.startmsrcbtn.UseVisualStyleBackColor = true;
+            this.startmsrcbtn.Click += new System.EventHandler(this.startmsrcbtn_Click);
             // 
             // label26
             // 
             this.label26.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.label26.AutoSize = true;
-            this.label26.Location = new System.Drawing.Point(6, 214);
+            this.label26.Location = new System.Drawing.Point(6, 144);
             this.label26.Name = "label26";
             this.label26.Size = new System.Drawing.Size(64, 15);
             this.label26.TabIndex = 13;
             this.label26.Text = "Calculator.";
             // 
-            // label20
-            // 
-            this.label20.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
-            this.label20.AutoSize = true;
-            this.label20.Location = new System.Drawing.Point(286, 243);
-            this.label20.Name = "label20";
-            this.label20.Size = new System.Drawing.Size(59, 15);
-            this.label20.TabIndex = 10;
-            this.label20.Text = "by Wizard";
-            // 
             // button13
             // 
             this.button13.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.button13.FlatStyle = System.Windows.Forms.FlatStyle.System;
-            this.button13.Location = new System.Drawing.Point(6, 232);
+            this.button13.Location = new System.Drawing.Point(6, 162);
             this.button13.Name = "button13";
-            this.button13.Size = new System.Drawing.Size(75, 23);
+            this.button13.Size = new System.Drawing.Size(75, 26);
             this.button13.TabIndex = 5;
             this.button13.Text = "Open";
             this.button13.UseVisualStyleBackColor = true;
@@ -706,9 +731,9 @@
             // button9
             // 
             this.button9.FlatStyle = System.Windows.Forms.FlatStyle.System;
-            this.button9.Location = new System.Drawing.Point(6, 88);
+            this.button9.Location = new System.Drawing.Point(6, 45);
             this.button9.Name = "button9";
-            this.button9.Size = new System.Drawing.Size(75, 28);
+            this.button9.Size = new System.Drawing.Size(75, 26);
             this.button9.TabIndex = 3;
             this.button9.Text = "Restart";
             this.button9.UseVisualStyleBackColor = true;
@@ -717,9 +742,9 @@
             // button8
             // 
             this.button8.FlatStyle = System.Windows.Forms.FlatStyle.System;
-            this.button8.Location = new System.Drawing.Point(6, 54);
+            this.button8.Location = new System.Drawing.Point(6, 77);
             this.button8.Name = "button8";
-            this.button8.Size = new System.Drawing.Size(75, 28);
+            this.button8.Size = new System.Drawing.Size(75, 26);
             this.button8.TabIndex = 2;
             this.button8.Text = "Shut down";
             this.button8.UseVisualStyleBackColor = true;
@@ -751,7 +776,6 @@
             this.tabPage3.BackColor = System.Drawing.Color.White;
             this.tabPage3.Controls.Add(this.updatespeedlbl);
             this.tabPage3.Controls.Add(this.groupBox6);
-            this.tabPage3.Controls.Add(this.label21);
             this.tabPage3.Controls.Add(this.label19);
             this.tabPage3.Controls.Add(this.label18);
             this.tabPage3.Controls.Add(this.checkcpurambtn);
@@ -760,9 +784,10 @@
             this.tabPage3.Location = new System.Drawing.Point(4, 24);
             this.tabPage3.Name = "tabPage3";
             this.tabPage3.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage3.Size = new System.Drawing.Size(351, 261);
+            this.tabPage3.Size = new System.Drawing.Size(419, 268);
             this.tabPage3.TabIndex = 4;
             this.tabPage3.Text = "Perform...";
+            this.tabPage3.Click += new System.EventHandler(this.tabPage3_Click);
             // 
             // updatespeedlbl
             // 
@@ -828,16 +853,6 @@
             this.radioButtonfast.TabIndex = 0;
             this.radioButtonfast.Text = "Fast";
             this.radioButtonfast.UseVisualStyleBackColor = true;
-            // 
-            // label21
-            // 
-            this.label21.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
-            this.label21.AutoSize = true;
-            this.label21.Location = new System.Drawing.Point(286, 237);
-            this.label21.Name = "label21";
-            this.label21.Size = new System.Drawing.Size(59, 15);
-            this.label21.TabIndex = 10;
-            this.label21.Text = "by Wizard";
             // 
             // label19
             // 
@@ -922,17 +937,17 @@
             this.tabPage5.Location = new System.Drawing.Point(4, 24);
             this.tabPage5.Name = "tabPage5";
             this.tabPage5.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage5.Size = new System.Drawing.Size(351, 261);
+            this.tabPage5.Size = new System.Drawing.Size(419, 268);
             this.tabPage5.TabIndex = 5;
             this.tabPage5.Text = "Processes";
             // 
             // checkBoxShowTasks
             // 
-            this.checkBoxShowTasks.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
+            this.checkBoxShowTasks.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.checkBoxShowTasks.AutoSize = true;
             this.checkBoxShowTasks.Checked = true;
             this.checkBoxShowTasks.CheckState = System.Windows.Forms.CheckState.Checked;
-            this.checkBoxShowTasks.Location = new System.Drawing.Point(209, 236);
+            this.checkBoxShowTasks.Location = new System.Drawing.Point(265, 181);
             this.checkBoxShowTasks.Name = "checkBoxShowTasks";
             this.checkBoxShowTasks.Size = new System.Drawing.Size(85, 19);
             this.checkBoxShowTasks.TabIndex = 6;
@@ -948,7 +963,7 @@
             this.groupBox8.Controls.Add(this.listboxprocesses);
             this.groupBox8.Location = new System.Drawing.Point(6, 6);
             this.groupBox8.Name = "groupBox8";
-            this.groupBox8.Size = new System.Drawing.Size(197, 249);
+            this.groupBox8.Size = new System.Drawing.Size(253, 256);
             this.groupBox8.TabIndex = 5;
             this.groupBox8.TabStop = false;
             this.groupBox8.Text = "All Tasks";
@@ -963,7 +978,7 @@
             this.listboxprocesses.ItemHeight = 15;
             this.listboxprocesses.Location = new System.Drawing.Point(5, 26);
             this.listboxprocesses.Name = "listboxprocesses";
-            this.listboxprocesses.Size = new System.Drawing.Size(186, 210);
+            this.listboxprocesses.Size = new System.Drawing.Size(242, 225);
             this.listboxprocesses.TabIndex = 0;
             // 
             // groupBox7
@@ -973,7 +988,7 @@
             this.groupBox7.Controls.Add(this.Sortprocessitems);
             this.groupBox7.Controls.Add(this.endtaskbtn);
             this.groupBox7.Controls.Add(this.reloadtasksbtn);
-            this.groupBox7.Location = new System.Drawing.Point(209, 6);
+            this.groupBox7.Location = new System.Drawing.Point(265, 6);
             this.groupBox7.Name = "groupBox7";
             this.groupBox7.Size = new System.Drawing.Size(136, 169);
             this.groupBox7.TabIndex = 3;
@@ -1032,7 +1047,7 @@
             this.StartTimer2.Location = new System.Drawing.Point(4, 24);
             this.StartTimer2.Name = "StartTimer2";
             this.StartTimer2.Padding = new System.Windows.Forms.Padding(3);
-            this.StartTimer2.Size = new System.Drawing.Size(351, 261);
+            this.StartTimer2.Size = new System.Drawing.Size(419, 268);
             this.StartTimer2.TabIndex = 6;
             this.StartTimer2.Text = "Timer";
             this.StartTimer2.UseVisualStyleBackColor = true;
@@ -1044,9 +1059,9 @@
             this.groupBox13.Controls.Add(this.Stopwatchstartbtn);
             this.groupBox13.Controls.Add(this.Stopwatchresetbtn);
             this.groupBox13.Controls.Add(this.Stopwatchstopbtn);
-            this.groupBox13.Location = new System.Drawing.Point(97, 132);
+            this.groupBox13.Location = new System.Drawing.Point(97, 143);
             this.groupBox13.Name = "groupBox13";
-            this.groupBox13.Size = new System.Drawing.Size(243, 119);
+            this.groupBox13.Size = new System.Drawing.Size(310, 119);
             this.groupBox13.TabIndex = 11;
             this.groupBox13.TabStop = false;
             this.groupBox13.Text = "Stopwatch Controls";
@@ -1055,9 +1070,9 @@
             // 
             this.Stopwatchstartbtn.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.Stopwatchstartbtn.FlatStyle = System.Windows.Forms.FlatStyle.System;
-            this.Stopwatchstartbtn.Location = new System.Drawing.Point(162, 90);
+            this.Stopwatchstartbtn.Location = new System.Drawing.Point(229, 86);
             this.Stopwatchstartbtn.Name = "Stopwatchstartbtn";
-            this.Stopwatchstartbtn.Size = new System.Drawing.Size(75, 23);
+            this.Stopwatchstartbtn.Size = new System.Drawing.Size(75, 27);
             this.Stopwatchstartbtn.TabIndex = 8;
             this.Stopwatchstartbtn.Text = "Start";
             this.Stopwatchstartbtn.UseVisualStyleBackColor = true;
@@ -1067,9 +1082,9 @@
             // 
             this.Stopwatchresetbtn.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.Stopwatchresetbtn.FlatStyle = System.Windows.Forms.FlatStyle.System;
-            this.Stopwatchresetbtn.Location = new System.Drawing.Point(162, 61);
+            this.Stopwatchresetbtn.Location = new System.Drawing.Point(229, 54);
             this.Stopwatchresetbtn.Name = "Stopwatchresetbtn";
-            this.Stopwatchresetbtn.Size = new System.Drawing.Size(75, 23);
+            this.Stopwatchresetbtn.Size = new System.Drawing.Size(75, 27);
             this.Stopwatchresetbtn.TabIndex = 9;
             this.Stopwatchresetbtn.Text = "Reset";
             this.Stopwatchresetbtn.UseVisualStyleBackColor = true;
@@ -1079,9 +1094,9 @@
             // 
             this.Stopwatchstopbtn.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.Stopwatchstopbtn.FlatStyle = System.Windows.Forms.FlatStyle.System;
-            this.Stopwatchstopbtn.Location = new System.Drawing.Point(81, 90);
+            this.Stopwatchstopbtn.Location = new System.Drawing.Point(148, 86);
             this.Stopwatchstopbtn.Name = "Stopwatchstopbtn";
-            this.Stopwatchstopbtn.Size = new System.Drawing.Size(75, 23);
+            this.Stopwatchstopbtn.Size = new System.Drawing.Size(75, 27);
             this.Stopwatchstopbtn.TabIndex = 10;
             this.Stopwatchstopbtn.Text = "Stop";
             this.Stopwatchstopbtn.UseVisualStyleBackColor = true;
@@ -1091,7 +1106,7 @@
             // 
             this.groupBox12.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.groupBox12.Controls.Add(this.lblStopwatch);
-            this.groupBox12.Location = new System.Drawing.Point(6, 132);
+            this.groupBox12.Location = new System.Drawing.Point(6, 143);
             this.groupBox12.Name = "groupBox12";
             this.groupBox12.Size = new System.Drawing.Size(85, 119);
             this.groupBox12.TabIndex = 7;
@@ -1115,7 +1130,7 @@
             this.groupBox11.Controls.Add(this.ResetTimer2);
             this.groupBox11.Location = new System.Drawing.Point(97, 7);
             this.groupBox11.Name = "groupBox11";
-            this.groupBox11.Size = new System.Drawing.Size(105, 119);
+            this.groupBox11.Size = new System.Drawing.Size(119, 119);
             this.groupBox11.TabIndex = 6;
             this.groupBox11.TabStop = false;
             this.groupBox11.Text = "Control";
@@ -1164,9 +1179,9 @@
             this.groupBox10.Controls.Add(this.label22);
             this.groupBox10.Controls.Add(this.label23);
             this.groupBox10.Controls.Add(this.label24);
-            this.groupBox10.Location = new System.Drawing.Point(208, 7);
+            this.groupBox10.Location = new System.Drawing.Point(222, 7);
             this.groupBox10.Name = "groupBox10";
-            this.groupBox10.Size = new System.Drawing.Size(132, 119);
+            this.groupBox10.Size = new System.Drawing.Size(191, 119);
             this.groupBox10.TabIndex = 4;
             this.groupBox10.TabStop = false;
             this.groupBox10.Text = "Set Timer";
@@ -1174,7 +1189,7 @@
             // SecondsTxt
             // 
             this.SecondsTxt.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.SecondsTxt.Location = new System.Drawing.Point(64, 80);
+            this.SecondsTxt.Location = new System.Drawing.Point(123, 80);
             this.SecondsTxt.Name = "SecondsTxt";
             this.SecondsTxt.Size = new System.Drawing.Size(62, 23);
             this.SecondsTxt.TabIndex = 5;
@@ -1182,7 +1197,7 @@
             // MinutesTxt
             // 
             this.MinutesTxt.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.MinutesTxt.Location = new System.Drawing.Point(64, 51);
+            this.MinutesTxt.Location = new System.Drawing.Point(123, 51);
             this.MinutesTxt.Name = "MinutesTxt";
             this.MinutesTxt.Size = new System.Drawing.Size(62, 23);
             this.MinutesTxt.TabIndex = 4;
@@ -1190,7 +1205,7 @@
             // HouresTxt
             // 
             this.HouresTxt.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.HouresTxt.Location = new System.Drawing.Point(64, 22);
+            this.HouresTxt.Location = new System.Drawing.Point(123, 22);
             this.HouresTxt.Name = "HouresTxt";
             this.HouresTxt.Size = new System.Drawing.Size(62, 23);
             this.HouresTxt.TabIndex = 3;
@@ -1199,7 +1214,7 @@
             // 
             this.label22.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.label22.AutoSize = true;
-            this.label22.Location = new System.Drawing.Point(6, 81);
+            this.label22.Location = new System.Drawing.Point(65, 81);
             this.label22.Name = "label22";
             this.label22.Size = new System.Drawing.Size(51, 15);
             this.label22.TabIndex = 2;
@@ -1209,7 +1224,7 @@
             // 
             this.label23.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.label23.AutoSize = true;
-            this.label23.Location = new System.Drawing.Point(6, 54);
+            this.label23.Location = new System.Drawing.Point(65, 54);
             this.label23.Name = "label23";
             this.label23.Size = new System.Drawing.Size(50, 15);
             this.label23.TabIndex = 1;
@@ -1219,7 +1234,7 @@
             // 
             this.label24.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.label24.AutoSize = true;
-            this.label24.Location = new System.Drawing.Point(6, 25);
+            this.label24.Location = new System.Drawing.Point(65, 25);
             this.label24.Name = "label24";
             this.label24.Size = new System.Drawing.Size(39, 15);
             this.label24.TabIndex = 0;
@@ -1244,6 +1259,55 @@
             this.TimerLabel.Size = new System.Drawing.Size(70, 21);
             this.TimerLabel.TabIndex = 0;
             this.TimerLabel.Text = "00:00:00";
+            // 
+            // tabPage6
+            // 
+            this.tabPage6.BackColor = System.Drawing.Color.White;
+            this.tabPage6.Controls.Add(this.groupBox14);
+            this.tabPage6.Controls.Add(this.OpenProgrammPathbtn);
+            this.tabPage6.Location = new System.Drawing.Point(4, 24);
+            this.tabPage6.Name = "tabPage6";
+            this.tabPage6.Padding = new System.Windows.Forms.Padding(3);
+            this.tabPage6.Size = new System.Drawing.Size(419, 268);
+            this.tabPage6.TabIndex = 7;
+            this.tabPage6.Text = "installed apps";
+            // 
+            // groupBox14
+            // 
+            this.groupBox14.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.groupBox14.Controls.Add(this.installedappview);
+            this.groupBox14.Location = new System.Drawing.Point(6, 6);
+            this.groupBox14.Name = "groupBox14";
+            this.groupBox14.Size = new System.Drawing.Size(326, 256);
+            this.groupBox14.TabIndex = 2;
+            this.groupBox14.TabStop = false;
+            this.groupBox14.Text = "installed apps";
+            // 
+            // installedappview
+            // 
+            this.installedappview.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.installedappview.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.installedappview.Location = new System.Drawing.Point(6, 18);
+            this.installedappview.Name = "installedappview";
+            this.installedappview.Size = new System.Drawing.Size(314, 232);
+            this.installedappview.TabIndex = 0;
+            this.installedappview.UseCompatibleStateImageBehavior = false;
+            // 
+            // OpenProgrammPathbtn
+            // 
+            this.OpenProgrammPathbtn.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.OpenProgrammPathbtn.FlatStyle = System.Windows.Forms.FlatStyle.System;
+            this.OpenProgrammPathbtn.Location = new System.Drawing.Point(338, 15);
+            this.OpenProgrammPathbtn.Name = "OpenProgrammPathbtn";
+            this.OpenProgrammPathbtn.Size = new System.Drawing.Size(75, 26);
+            this.OpenProgrammPathbtn.TabIndex = 1;
+            this.OpenProgrammPathbtn.Text = "Open Path";
+            this.OpenProgrammPathbtn.UseVisualStyleBackColor = true;
+            this.OpenProgrammPathbtn.Click += new System.EventHandler(this.OpenProgrammPathbtn_Click);
             // 
             // timer
             // 
@@ -1278,7 +1342,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.WhiteSmoke;
-            this.ClientSize = new System.Drawing.Size(383, 351);
+            this.ClientSize = new System.Drawing.Size(451, 358);
             this.Controls.Add(this.tabControl1);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.button2);
@@ -1288,7 +1352,6 @@
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Wizard System Tools";
-            this.Load += new System.EventHandler(this.Form1_Load);
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
             this.tabControl1.ResumeLayout(false);
@@ -1326,6 +1389,8 @@
             this.groupBox10.PerformLayout();
             this.groupBox9.ResumeLayout(false);
             this.groupBox9.PerformLayout();
+            this.tabPage6.ResumeLayout(false);
+            this.groupBox14.ResumeLayout(false);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -1394,8 +1459,6 @@
         private CheckBox checkcpurambtn;
         private Label label18;
         private Label label19;
-        private Label label20;
-        private Label label21;
         private GroupBox groupBox6;
         private RadioButton radioButtonslow;
         private RadioButton radioButtonnormal;
@@ -1434,5 +1497,11 @@
         private Button Sortprocessitems;
         private Label label27;
         private CheckBox checkBoxShowTasks;
+        private TabPage tabPage6;
+        private ListView installedappview;
+        private Button OpenProgrammPathbtn;
+        private GroupBox groupBox14;
+        private Button startmsrcbtn;
+        private Label label20;
     }
 }

@@ -1,6 +1,8 @@
 using System.Diagnostics;
 using System.Drawing;
 using System;
+using Microsoft.Win32;
+using System.IO;
 
 namespace Wizard_Calculator
 {
@@ -13,19 +15,13 @@ namespace Wizard_Calculator
         public Form1()
         {
             InitializeComponent();
-            this.MinimumSize = new System.Drawing.Size(399, 390);
+            this.MinimumSize = new System.Drawing.Size(420, 390);
             if (WindowState == FormWindowState.Minimized)
             {
                 MessageBox.Show("test");
             }
 
-        }
-
-        private void Form1_Load(object sender, EventArgs e)
-        {
-            timerPerformance.Start();
-            PerformaceTimer.Start();
-            GetAllProcesses();
+          
         }
 
         private void exitToolStripMenuItem_Click(object sender, EventArgs e)
@@ -394,6 +390,44 @@ namespace Wizard_Calculator
             }
         }
 
+   
+
+        void loadinstalledapps()
+        {
+
+            var installedPrograms = from subKey in Registry.LocalMachine.OpenSubKey(@"SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall").GetSubKeyNames()
+                                    select new
+                                    {
+                                        DisplayName = Registry.LocalMachine.OpenSubKey(@"SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\" + subKey).GetValue("DisplayName"),
+                                        InstallLocation = Registry.LocalMachine.OpenSubKey(@"SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\" + subKey).GetValue("InstallLocation"),
+                                        DisplayIcon = Registry.LocalMachine.OpenSubKey(@"SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\" + subKey).GetValue("DisplayIcon")
+                                    };
+            installedappview.View = View.List;
+            installedappview.SmallImageList = new ImageList();
+            int imageIndex = 0;
+            foreach (var program in installedPrograms)
+            {
+                if (program.DisplayName != null)
+                {
+                    string[] row = { program.DisplayName.ToString(), program.InstallLocation != null ? program.InstallLocation.ToString() : "" };
+                    var listViewItem = new ListViewItem(row);
+                    if (program.DisplayIcon != null)
+                    {
+                        var iconPath = program.DisplayIcon.ToString();
+                        if (!string.IsNullOrWhiteSpace(iconPath) && System.IO.File.Exists(iconPath))
+                        {
+                            var icon = Icon.ExtractAssociatedIcon(iconPath);
+                            installedappview.SmallImageList.Images.Add(icon);
+                            listViewItem.ImageIndex = imageIndex;
+                            imageIndex++;
+                        }
+                    }
+                    installedappview.Items.Add(listViewItem);
+                }
+            }
+         
+        }
+
 
 
 
@@ -607,6 +641,49 @@ namespace Wizard_Calculator
 
                 Process.Start(restart);
             }
+        }
+
+        private void OpenProgrammPathbtn_Click(object sender, EventArgs e)
+        {
+            if (installedappview.SelectedItems.Count > 0)
+            {
+                var selectedItem = installedappview.SelectedItems[0];
+                var installLocation = selectedItem.SubItems[1].Text;
+                if (!string.IsNullOrWhiteSpace(installLocation) && Directory.Exists(installLocation))
+                {
+                    Process.Start("explorer.exe", installLocation);
+                }
+            }
+        }
+
+       
+
+        private void tabPage3_Click(object sender, EventArgs e)
+        {
+          
+        }
+
+        public bool starttimers = false;
+
+        private void tabControl1_MouseClick(object sender, MouseEventArgs e)
+        {
+            
+
+            if(starttimers == false)
+            {
+                timerPerformance.Start();
+                PerformaceTimer.Start();
+                GetAllProcesses();
+                loadinstalledapps();
+
+                starttimers = true;
+            }
+        
+        }
+
+        private void startmsrcbtn_Click(object sender, EventArgs e)
+        {
+            Process.Start("mrt");
         }
     }
 }
